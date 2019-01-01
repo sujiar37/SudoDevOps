@@ -2,6 +2,7 @@
 layout: tabs
 title: How to Contribute ?
 author: Sujith Abdul Rahim
+date: 01/Jan/2019
 ---
 
 Thanks for reaching out our website. Knowledge should be shared across to everyone no matter what, that's how we learn - unlearn and relearn. Your contribution is very essential for us to keep this website with some good quality contents and we are really excited to have you as a contributor. 
@@ -12,11 +13,11 @@ Have any questions ? please mail us, we are happy to respond.
 
 * [Overview](#overview)
 * [Contributing](#contributing)
-* [Setting up your development environment](#Setting-up-your-development-environment)
+* [Setting up your development environment](#setting-up-your-development-environment)
     * [Prerequisites](#prerequisites)
         * [Docker](#docker)
     * [Build the environment](#build-the-environment)
-        * [Fork and clone the repo](#fork-and-clone-the-awx-repo)
+        * [Fork and clone the repo](#fork-and-clone-the-sudodevops-repo)
         * [Running the Jekyll environment](#running-the-jekyll-environment)
         * [Access the contents](#access-the-contents)
 
@@ -67,9 +68,9 @@ For Linux platforms, refer to the following from Docker:
 
 ### **Build the environment**
 
-#### **Fork and clone the AWX repo**
+#### **Fork and clone the SudoDevOps repo**
 
-If you have not done so already, you'll need to fork our repo in [**GitHub**](https://github.com/sujiar37/SudoDevOps). For more on how to do this, see [**Fork a Repo**](https://help.github.com/articles/fork-a-repo/).
+If you have not done so already, you'll need to fork our repo on [**GitHub**](https://github.com/sujiar37/SudoDevOps). For more on how to do this, see [**Fork a Repo**](https://help.github.com/articles/fork-a-repo/).
 
 #### **Running the Jekyll environment**
 

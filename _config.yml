@@ -9,3 +9,7 @@ github_username:  sujiar37
 email: contact@sudodevops.com
 linkedIn_username: sujithar37
 #twitter_username: sujithar37
+
+collections:
+  authors:
+    output: true
