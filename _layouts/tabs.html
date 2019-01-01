@@ -1,0 +1,15 @@
+---
+layout: default
+---
+<div class="page clearfix" {{page.title}}>
+    <div class="left">
+        <h1><b>{{page.title}}</b></h1>
+        {% if page.author %}
+            {% for author in site.authors %}
+            <small><b>{{page.date}} * {% include read_time.html %} * by <a href="{{ author.url }}">{{ page.author }}</a></b></small>
+            {% endfor %}
+        {% endif %}
+        <hr>
+        {{content}}
+    </div>
+</div>
