@@ -1,0 +1,16 @@
+- name: Home
+  link: /
+  icon: home
+- name: Categories
+  link: /categories.html
+  icon: book-reader
+- name: Authors
+  link: /authors.html
+  icon: pen-nib
+- name: About
+  link: /about.html
+  icon: user-secret
+- name: How to Contribute?
+  link: /contribute.html
+  icon: code-branch
+

@@ -1,0 +1,16 @@
+<header id="top">
+    <div class="wrapper">
+        <a href="{{ site.baseurl }}/" class="brand">{{ site.title }}</a>
+        <small>{{site.brief-intro}}</small>
+        <button id="headerMenu" class="menu"><i class="fa fa-bars"></i></button>
+        <nav id="headerNav">
+            <ul>
+                {% for item in site.data.navigation %}
+                <li>                    
+                    <a href="{{ item.link }}" {% if page.url == item.link %}class="active"{% endif %}><i class="fas fa-{{item.icon}}"></i>{{ item.name }}</a>
+                </li>
+                {% endfor %}
+            </ul>
+        </nav>
+    </div>
+</header>

@@ -1,0 +1,11 @@
+# Site Common Settings
+title: SudoDevOps
+brief-intro: Learn~Unlearn~Relearn
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://www.sudodevops.com" # the base hostname & protocol for your site
+
+facebook_username: sujithar37
+github_username:  sujiar37
+email: contact@sudodevops.com
+linkedIn_username: sujithar37
+#twitter_username: sujithar37
