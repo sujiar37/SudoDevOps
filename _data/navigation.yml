@@ -2,15 +2,15 @@
   link: /
   icon: home
 - name: Categories
-  link: /categories.html
+  link: /categories
   icon: book-reader
 - name: Authors
-  link: /authors.html
+  link: /authors
   icon: pen-nib
 - name: About
-  link: /about.html
+  link: /about
   icon: user-secret
 - name: How to Contribute?
-  link: /contribute.html
+  link: /contribute
   icon: code-branch
 
