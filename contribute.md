@@ -37,7 +37,7 @@ This is Me , **Sujith Abdul Rahim**. I built this website to mainly focus on exp
 - Last but least, keep connected to everyone and help peoples by clearing their doubts related with the topics that you had publish.
 
 
-## **Setting up your defaultvironment**
+## **Setting up your development environment**
 
 ### **Prerequisites**
 
